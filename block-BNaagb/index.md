@@ -4,6 +4,7 @@ writeCode
 
 Use star wars API to cache characters from star wars in a node/express application.
 Take a reference for star wars API from [here](https://swapi.dev/)
+okay
 
 ##### Note:
 1. Setup redis as cache server
